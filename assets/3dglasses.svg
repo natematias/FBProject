@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="3dglasses.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5104">
+      <stop
+         style="stop-color:#afafaf;stop-opacity:1;"
+         offset="0"
+         id="stop5106" />
+      <stop
+         style="stop-color:#606060;stop-opacity:1;"
+         offset="1"
+         id="stop5108" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4676"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4678" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4680" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4496">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4498" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.20512821;"
+         offset="1"
+         id="stop4500" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4488">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.2820513;"
+         offset="0"
+         id="stop4490" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4492" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3847"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3836">
+      <stop
+         style="stop-color:#040101;stop-opacity:0.18803419;"
+         offset="0"
+         id="stop3838" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3840" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3766">
+      <stop
+         style="stop-color:#eaecec;stop-opacity:1;"
+         offset="0"
+         id="stop3768" />
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         offset="1"
+         id="stop3770" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient3810"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.857143,-7.1428572)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3836"
+       id="linearGradient4486"
+       x1="206.71428"
+       y1="437.50504"
+       x2="336.85715"
+       y2="437.50504"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="linearGradient4494"
+       x1="410.28574"
+       y1="437.50504"
+       x2="534.4286"
+       y2="437.50504"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient4510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.008,0,0,1.008,-15.937125,-10.709731)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient4686"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient4716"
+       gradientUnits="userSpaceOnUse"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient4944"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.008,0,0,1.008,-15.937125,-10.709731)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient4946"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.857143,-7.1428572)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3836"
+       id="linearGradient4948"
+       gradientUnits="userSpaceOnUse"
+       x1="206.71428"
+       y1="437.50504"
+       x2="336.85715"
+       y2="437.50504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="linearGradient4950"
+       gradientUnits="userSpaceOnUse"
+       x1="410.28574"
+       y1="437.50504"
+       x2="534.4286"
+       y2="437.50504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient4952"
+       gradientUnits="userSpaceOnUse"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient4954"
+       gradientUnits="userSpaceOnUse"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient5004"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.008,0,0,1.008,-15.937125,-10.709731)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient5006"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.857143,-7.1428572)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3836"
+       id="linearGradient5008"
+       gradientUnits="userSpaceOnUse"
+       x1="206.71428"
+       y1="437.50504"
+       x2="336.85715"
+       y2="437.50504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="linearGradient5010"
+       gradientUnits="userSpaceOnUse"
+       x1="410.28574"
+       y1="437.50504"
+       x2="534.4286"
+       y2="437.50504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient5012"
+       gradientUnits="userSpaceOnUse"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient5014"
+       gradientUnits="userSpaceOnUse"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient5058"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.008,0,0,1.008,-15.937125,-10.709731)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.857143,-7.1428572)"
+       x1="212.85715"
+       y1="405.21933"
+       x2="568.57141"
+       y2="495.93362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3836"
+       id="linearGradient5062"
+       gradientUnits="userSpaceOnUse"
+       x1="206.71428"
+       y1="437.50504"
+       x2="336.85715"
+       y2="437.50504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="linearGradient5064"
+       gradientUnits="userSpaceOnUse"
+       x1="410.28574"
+       y1="437.50504"
+       x2="534.4286"
+       y2="437.50504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient5066"
+       gradientUnits="userSpaceOnUse"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676"
+       id="linearGradient5068"
+       gradientUnits="userSpaceOnUse"
+       x1="218.97656"
+       y1="437.6906"
+       x2="284.72266"
+       y2="437.6906" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5104"
+       id="linearGradient5110"
+       x1="251.53307"
+       y1="344.49777"
+       x2="435.37068"
+       y2="344.49777"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.89602703,-22.243661,28.155605)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5104"
+       id="linearGradient5114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43326224,0,0,0.89602703,320.59298,28.155605)"
+       x1="251.53307"
+       y1="344.49777"
+       x2="435.37068"
+       y2="344.49777" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="372.04724"
+     inkscape:cy="675.81032"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1406"
+     inkscape:window-height="808"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#dedede;fill-opacity:1;stroke:#a8a8a8;stroke-width:0.9967767;stroke-opacity:0.35748794"
+       d="m -134.85539,437.75536 326.78437,-49.56848 -1e-5,98.97816 -326.78436,209.76305 z"
+       id="rect3825"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3834"
+       d="m 881.33781,437.75536 -326.78437,-49.56848 10e-6,98.97816 326.78436,209.76305 z"
+       style="fill:#dedede;fill-opacity:1;stroke:#a8a8a8;stroke-width:0.9967767;stroke-opacity:0.35748794"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047" />
+    <g
+       id="g4616"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047">
+      <g
+         id="g4516">
+        <path
+           sodipodi:nodetypes="ccsssccc"
+           inkscape:connector-curvature="0"
+           id="path4504"
+           d="m 189.99187,388.38177 0,99.3825 c 0,0 153.94173,2.86574 159.6735,-2.016 10.48296,-8.92833 12.10974,-32.634 22.49101,-32.634 10.38126,0 11.68212,24.07255 22.4595,32.634 7.52364,5.9767 159.67349,2.016 159.67349,2.016 l 0,-99.3825 z"
+           style="fill:url(#linearGradient4510);fill-opacity:1;stroke:#000000;stroke-opacity:0.11764706" />
+        <path
+           style="fill:url(#linearGradient3810);fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.35748794;stroke-dasharray:none"
+           d="m 191.4375,388.78125 0,98.59375 c 0,0 152.71997,2.843 158.40625,-2 10.39976,-8.85747 12.01363,-32.375 22.3125,-32.375 10.29887,0 11.58941,23.8815 22.28125,32.375 7.46393,5.92927 158.40625,2 158.40625,2 l 0,-98.59375 z"
+           id="rect2996"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsssccc" />
+        <rect
+           style="fill:#00b1c4;fill-opacity:1;stroke:url(#linearGradient4486);stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
+           id="rect3778"
+           width="122.14286"
+           height="68.571426"
+           x="210.71428"
+           y="403.21933"
+           rx="20"
+           ry="20" />
+        <rect
+           ry="20"
+           rx="20"
+           y="403.21933"
+           x="411.28574"
+           height="68.571426"
+           width="122.14286"
+           id="rect3780"
+           style="fill:#d13331;fill-opacity:1;stroke:url(#linearGradient4494);stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none" />
+      </g>
+      <rect
+         ry="1.7651997"
+         rx="2"
+         y="406.1171"
+         x="352.55084"
+         height="24.963694"
+         width="39.89341"
+         id="rect4536"
+         style="fill:none;stroke:#000000;stroke-width:0.93946785;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.56038663;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4538"
+         y="418.51175"
+         x="355.61652"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans Bold"
+         xml:space="preserve"><tspan
+           y="418.51175"
+           x="355.61652"
+           id="tspan4540"
+           sodipodi:role="line">BIAS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+         x="358.71585"
+         y="427.11142"
+         id="text4542"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.59420286;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+           sodipodi:role="line"
+           id="tspan4544"
+           x="358.71585"
+           y="427.11142">vision</tspan></text>
+      <rect
+         style="fill:none;stroke:url(#linearGradient5110);stroke-width:0.94658703;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.55072464;stroke-dasharray:none"
+         id="rect5090"
+         width="182.83762"
+         height="18.555042"
+         x="229.7894"
+         y="327.55743"
+         rx="2"
+         ry="1.5816667" />
+      <rect
+         ry="2"
+         rx="1.4787692"
+         y="327.55743"
+         x="429.7894"
+         height="18.555042"
+         width="79.216637"
+         id="rect5112"
+         style="fill:#262626;fill-opacity:0.78260869;stroke:url(#linearGradient5114);stroke-width:0.62306875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.55072464;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.95169079;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+         x="434.93158"
+         y="340.84375"
+         id="text5116"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5118"
+           x="434.93158"
+           y="340.84375"
+           style="font-size:14px;font-weight:normal;fill:#ffffff;fill-opacity:0.95169079;-inkscape-font-specification:Gill Sans">check vision</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5120"
+         y="340.84375"
+         x="234.93158"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#565656;fill-opacity:0.95169079;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+         xml:space="preserve"><tspan
+           style="font-size:14px;font-weight:normal;fill:#565656;fill-opacity:0.95169079;-inkscape-font-specification:Gill Sans"
+           y="340.84375"
+           x="234.93158"
+           id="tspan5122"
+           sodipodi:role="line">@kimkierkegaardashian</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4668"
+       style="display:inline;font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922703999999996;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       transform="translate(17.67767,-1.0101525)"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         id="flowRegion4670"
+         style="stroke:url(#linearGradient4686)"><rect
+           id="rect4672"
+           width="102.53049"
+           height="55.053314"
+           x="218.19295"
+           y="411.42038"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans" /></flowRegion><flowPara
+         id="flowPara4674"
+         style="stroke:#ffffff;stroke-opacity:0.87922704">80%</flowPara></flowRoot>    <flowRoot
+       transform="translate(221.67767,-1.0101525)"
+       style="display:inline;font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922703999999996;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       id="flowRoot4708"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         style="stroke:url(#linearGradient4716)"
+         id="flowRegion4710"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+           y="411.42038"
+           x="218.19295"
+           height="55.053314"
+           width="102.53049"
+           id="rect4712" /></flowRegion><flowPara
+         style="stroke:#ffffff;stroke-opacity:0.87922704"
+         id="flowPara4714">12%</flowPara></flowRoot>    <g
+       id="g4906"
+       transform="matrix(0.19609389,0,0,0.19609389,175.21938,419.2705)"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047">
+      <g
+         id="g4908">
+        <path
+           style="fill:url(#linearGradient4944);fill-opacity:1;stroke:#000000;stroke-opacity:0.11764706"
+           d="m 189.99187,388.38177 0,99.3825 c 0,0 153.94173,2.86574 159.6735,-2.016 10.48296,-8.92833 12.10974,-32.634 22.49101,-32.634 10.38126,0 11.68212,24.07255 22.4595,32.634 7.52364,5.9767 159.67349,2.016 159.67349,2.016 l 0,-99.3825 z"
+           id="path4910"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsssccc" />
+        <path
+           sodipodi:nodetypes="ccsssccc"
+           inkscape:connector-curvature="0"
+           id="path4912"
+           d="m 191.4375,388.78125 0,98.59375 c 0,0 152.71997,2.843 158.40625,-2 10.39976,-8.85747 12.01363,-32.375 22.3125,-32.375 10.29887,0 11.58941,23.8815 22.28125,32.375 7.46393,5.92927 158.40625,2 158.40625,2 l 0,-98.59375 z"
+           style="fill:url(#linearGradient4946);fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.35748794;stroke-dasharray:none" />
+        <rect
+           ry="20"
+           rx="20"
+           y="403.21933"
+           x="210.71428"
+           height="68.571426"
+           width="122.14286"
+           id="rect4914"
+           style="fill:#00b1c4;fill-opacity:1;stroke:url(#linearGradient4948);stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none" />
+        <rect
+           style="fill:#d13331;fill-opacity:1;stroke:url(#linearGradient4950);stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
+           id="rect4916"
+           width="122.14286"
+           height="68.571426"
+           x="411.28574"
+           y="403.21933"
+           rx="20"
+           ry="20" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.93946785;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.56038663;stroke-dasharray:none"
+         id="rect4918"
+         width="39.89341"
+         height="24.963694"
+         x="352.55084"
+         y="406.1171"
+         rx="2"
+         ry="1.7651997" />
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans Bold"
+         x="355.61652"
+         y="418.51175"
+         id="text4920"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4922"
+           x="355.61652"
+           y="418.51175">BIAS</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4924"
+         y="427.61163"
+         x="357.61591"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+         xml:space="preserve"><tspan
+           y="427.61163"
+           x="357.61591"
+           id="tspan4926"
+           sodipodi:role="line"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.59420286;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">vision</tspan></text>
+    </g>
+    <flowRoot
+       transform="matrix(0.19609389,0,0,0.19609389,178.68586,419.07242)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;display:inline;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       id="flowRoot4928"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         style="stroke:url(#linearGradient4952)"
+         id="flowRegion4930"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+           y="411.42038"
+           x="218.19295"
+           height="55.053314"
+           width="102.53049"
+           id="rect4932" /></flowRegion><flowPara
+         style="stroke:#ffffff;stroke-opacity:0.87922704"
+         id="flowPara4934">40%</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4936"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;display:inline;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       transform="matrix(0.19609389,0,0,0.19609389,218.68901,419.07242)"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         id="flowRegion4938"
+         style="stroke:url(#linearGradient4954)"><rect
+           id="rect4940"
+           width="102.53049"
+           height="55.053314"
+           x="218.19295"
+           y="411.42038"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans" /></flowRegion><flowPara
+         id="flowPara4942"
+         style="stroke:#ffffff;stroke-opacity:0.87922704">15%</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#535353;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="293.26657"
+       y="507.22498"
+       id="text4956"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><tspan
+         sodipodi:role="line"
+         id="tspan4958"
+         x="293.26657"
+         y="507.22498"
+         style="font-size:11px;fill:#535353;fill-opacity:1">@natematias</tspan></text>
+    <g
+       transform="matrix(0.19609389,0,0,0.19609389,175.21938,447.2705)"
+       id="g4962"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047">
+      <g
+         id="g4964">
+        <path
+           sodipodi:nodetypes="ccsssccc"
+           inkscape:connector-curvature="0"
+           id="path4966"
+           d="m 189.99187,388.38177 0,99.3825 c 0,0 153.94173,2.86574 159.6735,-2.016 10.48296,-8.92833 12.10974,-32.634 22.49101,-32.634 10.38126,0 11.68212,24.07255 22.4595,32.634 7.52364,5.9767 159.67349,2.016 159.67349,2.016 l 0,-99.3825 z"
+           style="fill:url(#linearGradient5004);fill-opacity:1;stroke:#000000;stroke-opacity:0.11764706" />
+        <path
+           style="fill:url(#linearGradient5006);fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.35748794;stroke-dasharray:none"
+           d="m 191.4375,388.78125 0,98.59375 c 0,0 152.71997,2.843 158.40625,-2 10.39976,-8.85747 12.01363,-32.375 22.3125,-32.375 10.29887,0 11.58941,23.8815 22.28125,32.375 7.46393,5.92927 158.40625,2 158.40625,2 l 0,-98.59375 z"
+           id="path4968"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsssccc" />
+        <rect
+           style="fill:#00b1c4;fill-opacity:1;stroke:url(#linearGradient5008);stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
+           id="rect4970"
+           width="122.14286"
+           height="68.571426"
+           x="210.71428"
+           y="403.21933"
+           rx="20"
+           ry="20" />
+        <rect
+           ry="20"
+           rx="20"
+           y="403.21933"
+           x="411.28574"
+           height="68.571426"
+           width="122.14286"
+           id="rect4972"
+           style="fill:#d13331;fill-opacity:1;stroke:url(#linearGradient5010);stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none" />
+      </g>
+      <rect
+         ry="1.7651997"
+         rx="2"
+         y="406.1171"
+         x="352.55084"
+         height="24.963694"
+         width="39.89341"
+         id="rect4974"
+         style="fill:none;stroke:#000000;stroke-width:0.93946785;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.56038663;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4976"
+         y="418.51175"
+         x="355.61652"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans Bold"
+         xml:space="preserve"><tspan
+           y="418.51175"
+           x="355.61652"
+           id="tspan4978"
+           sodipodi:role="line">BIAS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+         x="357.61591"
+         y="427.61163"
+         id="text4980"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.59420286;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+           sodipodi:role="line"
+           id="tspan4982"
+           x="357.61591"
+           y="427.61163">vision</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4984"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;display:inline;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       transform="matrix(0.19609389,0,0,0.19609389,178.68586,447.07242)"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         id="flowRegion4986"
+         style="stroke:url(#linearGradient5012)"><rect
+           id="rect4988"
+           width="102.53049"
+           height="55.053314"
+           x="218.19295"
+           y="411.42038"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans" /></flowRegion><flowPara
+         id="flowPara4990"
+         style="stroke:#ffffff;stroke-opacity:0.87922704">50%</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.19609389,0,0,0.19609389,218.68901,447.07242)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;display:inline;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       id="flowRoot4992"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         style="stroke:url(#linearGradient5014)"
+         id="flowRegion4994"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+           y="411.42038"
+           x="218.19295"
+           height="55.053314"
+           width="102.53049"
+           id="rect4996" /></flowRegion><flowPara
+         style="stroke:#ffffff;stroke-opacity:0.87922704"
+         id="flowPara4998">35%</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text5000"
+       y="535.22498"
+       x="293.26657"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#535353;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><tspan
+         style="font-size:11px;fill:#535353;fill-opacity:1"
+         y="535.22498"
+         x="293.26657"
+         id="tspan5002"
+         sodipodi:role="line">@dearsarah</tspan></text>
+    <g
+       id="g5016"
+       transform="matrix(0.19609389,0,0,0.19609389,175.21938,475.2705)"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047">
+      <g
+         id="g5018">
+        <path
+           style="fill:url(#linearGradient5058);fill-opacity:1;stroke:#000000;stroke-opacity:0.11764706"
+           d="m 189.99187,388.38177 0,99.3825 c 0,0 153.94173,2.86574 159.6735,-2.016 10.48296,-8.92833 12.10974,-32.634 22.49101,-32.634 10.38126,0 11.68212,24.07255 22.4595,32.634 7.52364,5.9767 159.67349,2.016 159.67349,2.016 l 0,-99.3825 z"
+           id="path5020"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsssccc" />
+        <path
+           sodipodi:nodetypes="ccsssccc"
+           inkscape:connector-curvature="0"
+           id="path5022"
+           d="m 191.4375,388.78125 0,98.59375 c 0,0 152.71997,2.843 158.40625,-2 10.39976,-8.85747 12.01363,-32.375 22.3125,-32.375 10.29887,0 11.58941,23.8815 22.28125,32.375 7.46393,5.92927 158.40625,2 158.40625,2 l 0,-98.59375 z"
+           style="fill:url(#linearGradient5060);fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.35748794;stroke-dasharray:none" />
+        <rect
+           ry="20"
+           rx="20"
+           y="403.21933"
+           x="210.71428"
+           height="68.571426"
+           width="122.14286"
+           id="rect5024"
+           style="fill:#00b1c4;fill-opacity:1;stroke:url(#linearGradient5062);stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none" />
+        <rect
+           style="fill:#d13331;fill-opacity:1;stroke:url(#linearGradient5064);stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
+           id="rect5026"
+           width="122.14286"
+           height="68.571426"
+           x="411.28574"
+           y="403.21933"
+           rx="20"
+           ry="20" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.93946785;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.56038663;stroke-dasharray:none"
+         id="rect5028"
+         width="39.89341"
+         height="24.963694"
+         x="352.55084"
+         y="406.1171"
+         rx="2"
+         ry="1.7651997" />
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans Bold"
+         x="355.61652"
+         y="418.51175"
+         id="text5030"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5032"
+           x="355.61652"
+           y="418.51175">BIAS</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5034"
+         y="427.61163"
+         x="357.61591"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.59420286;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+         xml:space="preserve"><tspan
+           y="427.61163"
+           x="357.61591"
+           id="tspan5036"
+           sodipodi:role="line"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.59420286;font-family:Gill Sans;-inkscape-font-specification:Gill Sans">vision</tspan></text>
+    </g>
+    <flowRoot
+       transform="matrix(0.19609389,0,0,0.19609389,178.68586,475.07242)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;display:inline;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       id="flowRoot5038"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         style="stroke:url(#linearGradient5066)"
+         id="flowRegion5040"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+           y="411.42038"
+           x="218.19295"
+           height="55.053314"
+           width="102.53049"
+           id="rect5042" /></flowRegion><flowPara
+         style="stroke:#ffffff;stroke-opacity:0.87922704"
+         id="flowPara5044">45%</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5046"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;display:inline;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       transform="matrix(0.19609389,0,0,0.19609389,218.68901,475.07242)"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><flowRegion
+         id="flowRegion5048"
+         style="stroke:url(#linearGradient5068)"><rect
+           id="rect5050"
+           width="102.53049"
+           height="55.053314"
+           x="218.19295"
+           y="411.42038"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.87922704;font-family:Gill Sans;-inkscape-font-specification:Gill Sans" /></flowRegion><flowPara
+         id="flowPara5052"
+         style="stroke:#ffffff;stroke-opacity:0.87922704">30%</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#535353;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="293.26657"
+       y="563.22498"
+       id="text5054"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><tspan
+         sodipodi:role="line"
+         id="tspan5056"
+         x="293.26657"
+         y="563.22498"
+         style="font-size:11px;fill:#535353;fill-opacity:1">@birago</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5070"
+       y="507.22498"
+       x="370.94424"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#535353;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><tspan
+         style="font-size:11px;fill:#535353;fill-opacity:1"
+         y="507.22498"
+         x="370.94424"
+         id="tspan5072"
+         sodipodi:role="line">more data can go here on this row</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#535353;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="371.23105"
+       y="534.98389"
+       id="text5080"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><tspan
+         sodipodi:role="line"
+         id="tspan5082"
+         x="371.23105"
+         y="534.98389"
+         style="font-size:11px;fill:#535353;fill-opacity:1">more data can go here on this row</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5086"
+       y="562.76306"
+       x="371.23105"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#535353;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/civicmac/Development/civic/biasgoggles/3dglasses.png"
+       inkscape:export-xdpi="300.04047"
+       inkscape:export-ydpi="300.04047"><tspan
+         style="font-size:11px;fill:#535353;fill-opacity:1"
+         y="562.76306"
+         x="371.23105"
+         id="tspan5088"
+         sodipodi:role="line">more data can go here on this row</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Reporting layer" />
+</svg>

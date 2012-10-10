@@ -1,0 +1,46 @@
+.navbar-inner{
+  background-image: -moz-linear-gradient(center top, #eee, #ccc);
+  background: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ccc));
+  background-color: #006E3C;
+  color:black;
+}
+
+.navbar .brand{
+  color:black;
+}
+
+.navbar .nav .active >a{
+  background:none;
+  /*background:#228E5C;*/
+  border-left:1px solid white;
+  border-right:1px solid white;
+}
+
+
+.navbar .nav .active >a:hover{
+  background:none;
+  background-image: -moz-linear-gradient(center top, #228E5C, #004E1C);
+  border-left:1px solid white;
+  border-right:1px solid white;
+}
+
+#main_container{
+  margin-top:50px;
+  padding-bottom:20px;
+  border-bottom:2px dotted #aaa;
+}
+
+#tableheader{
+  font-weight:bold;
+  margin-bottom:20px;
+}
+
+.hero-unit p{
+  font-size:100%;
+}
+
+.footer{
+  margin-bottom:20px;
+  text-align:center;
+}
+
