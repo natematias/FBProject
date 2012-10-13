@@ -31,7 +31,7 @@ var BiasView = Backbone.View.extend({
       }else{
         //TODO: RESPOND TO ACCOUNT NOT FOUND
         el = $(that.no_result_template());
-        $("#notifications").append(el);
+        $("#notifications").html(el);
       }
     });
   },
