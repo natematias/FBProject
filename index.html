@@ -25,7 +25,7 @@
 
 
     <!-- Contents -->
-    <div class="container" id="main_container" align="center">
+    <div class="container" id="description" align="center">
       <div class="hero-unit">
         <h1>FollowBias</h1>
           <h3>By people</h3>
@@ -33,16 +33,29 @@
           <p align="left">Text about the project and about people</p>
       </div>
       <div id="main">
+        <input id="twitter_account" type="text" placeholder="Type Any Twitter Account Here"/> <button type="submit" class="btn btn-inverse" id="check_bias_button">Check Bias</button>
+        <hr/>
+        <div class="row-fluid">
+          <div id="notifications" class="span8"></div>
+          <table id="results" class="table">
+            <tr>
+            </tr>
+          </table>
+        </div>
       </div>
 
     <!-- Inline Templates -->
-    <script type="text/template" id="sample_template">
+    <script type="text/template" id="result_template">
+      <tr><td><font color="red"><%=row.female%></font> <font color="blue"><%=row.male%></font></td>
+           <td><%=row.account%></td><td>Total: <%=row.total_following%></td>
+      </tr>
     </script>
-    <script type="text/template" id="sample_template_two">
+    <script type="text/template" id="no_result_template">
+      <div class="alert">Twitter Account not found</div>
     </script>
 
     <script type="text/javascript" charset="utf-8" src="lib/jquery-1.7.2.min.js"></script>
-    <script type="text/javascript" charset="utf-8" src="styles/bootstrap/js/bootstrap.min.jstyles/bootstrap/js/bootstrap.min.jss"></script>
+    <script type="text/javascript" charset="utf-8" src="styles/bootstrap/js/bootstrap.min.js"></script>
     <!--<script type="text/javascript" charset="utf-8" src="lib/crossfilter.js"></script>-->
 
     <script type="text/javascript" charset="utf-8" src="lib/underscore.js"></script>
@@ -53,7 +66,7 @@
        var router = null;
        function launch(){
          s_view = new BiasView();
-         s_view.setElement($("#mainr"));
+         s_view.setElement($("#main"));
          router = new GRouter();
          Backbone.history.start({pushState: false, root: "index.html"})
        }

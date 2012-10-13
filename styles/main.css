@@ -44,3 +44,8 @@
   text-align:center;
 }
 
+input#twitter_account{
+  height:auto !important;
+  margin-bottom:0px;
+  margin-right:10px;
+}
