@@ -10,7 +10,7 @@ class AuthenticateController < ApplicationController
     oauth_verifier = params[:oauth_verifier]
     client = self.get_client
 
-    session[:access_token] = client.authorize(
+    access_token = client.authorize(
       session[:request_token].token,
       session[:request_token].secret,
       :oauth_verifier => params[:oauth_verifier]
