@@ -1,6 +1,6 @@
 class AuthenticateController < ApplicationController
   def index
-    client = self.get_client
+    client = TwitterClient.get_client
     session[:request_token] = client.request_token(:oauth_callback => "http://hypatia.media.mit.edu:4000/authenticate/success")
     redirect_to session[:request_token].authorize_url
   end
@@ -16,14 +16,6 @@ class AuthenticateController < ApplicationController
       :oauth_verifier => params[:oauth_verifier]
     )
     @authorized = client.authorized?
-  end
-
-  private
-  def get_client
-   client = TwitterOAuth::Client.new(
-    :consumer_key => CONSUMER_KEY,
-    :consumer_secret => CONSUMER_SECRET
-   ) 
   end
 
 end
