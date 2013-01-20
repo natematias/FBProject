@@ -8,7 +8,7 @@ class AuthenticateController < ApplicationController
   def success
     oauth_token = params[:oauth_token]
     oauth_verifier = params[:oauth_verifier]
-    client = self.get_client
+    client = TwitterClient.get_client
 
     access_token = client.authorize(
       session[:request_token].token,
